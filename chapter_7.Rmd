@@ -468,7 +468,7 @@ writeLines(result.check, "./output/chp7/check.md")
 ---
 # <h1 lang="zh-CN">简单效应检验与多重比较</h1>
 # <h2 lang="zh-CN">OUTPUT</h2>
-![](./picture/chp7/process_20.png)
+![](./picture/chp7/process_19.png)
 ---
 # <h1 lang="zh-CN">被试间设计的语法实现</h1>
 # <h2 lang="en">性别与亲密关系对ECR得分的效应</h2>
